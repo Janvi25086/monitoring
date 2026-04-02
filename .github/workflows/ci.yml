@@ -1,4 +1,3 @@
-Path: .github/workflows/ci.yml
 name: Monitoring Demo
 
 on:
